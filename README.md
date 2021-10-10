@@ -1,5 +1,5 @@
 ## IZOH YO'Q!
 
-DEMO VERSIYA: 
+DEMO VERSIYA: https://photosearch1.netlify.app/
 
 VIDEO DARS: 
